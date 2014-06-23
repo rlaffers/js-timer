@@ -8,12 +8,12 @@ body {
 
 /* line 11, ../sass/js-timer.scss */
 .js-timer {
-  /*width: 50%;*/
   height: 50%;
   margin: 25% auto;
   text-align: center;
 }
-/* line 17, ../sass/js-timer.scss */
+/* line 16, ../sass/js-timer.scss */
 .js-timer #display {
-  font-size: 4em;
+  font-size: 6em;
+  margin-bottom: 20px;
 }
