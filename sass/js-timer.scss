@@ -1,0 +1,21 @@
+$color: #EEEEEE;
+$bkgColor: #555555;
+
+body {
+    color: $color;
+    background-color: $bkgColor;
+    font-size: 1em;
+    line-height: 1.2;
+}
+
+.js-timer {
+    /*width: 50%;*/
+    height: 50%;
+    margin: 25% auto;
+    text-align: center;
+
+    #display {
+        font-size: 4em;
+    }
+
+}

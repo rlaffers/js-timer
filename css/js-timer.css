@@ -1,0 +1,19 @@
+/* line 4, ../sass/js-timer.scss */
+body {
+  color: #eeeeee;
+  background-color: #555555;
+  font-size: 1em;
+  line-height: 1.2;
+}
+
+/* line 11, ../sass/js-timer.scss */
+.js-timer {
+  /*width: 50%;*/
+  height: 50%;
+  margin: 25% auto;
+  text-align: center;
+}
+/* line 17, ../sass/js-timer.scss */
+.js-timer #display {
+  font-size: 4em;
+}
