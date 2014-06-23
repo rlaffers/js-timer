@@ -7,12 +7,17 @@ body {
 }
 
 /* line 11, ../sass/js-timer.scss */
+.shortcut {
+  text-decoration: underline;
+}
+
+/* line 15, ../sass/js-timer.scss */
 .js-timer {
   height: 50%;
   margin: 25% auto;
   text-align: center;
 }
-/* line 16, ../sass/js-timer.scss */
+/* line 20, ../sass/js-timer.scss */
 .js-timer #display {
   font-size: 6em;
   margin-bottom: 20px;
