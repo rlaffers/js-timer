@@ -1,23 +1,27 @@
-/* line 4, ../sass/js-timer.scss */
+/* line 5, ../sass/js-timer.scss */
 body {
   color: #eeeeee;
   background-color: #555555;
   font-size: 1em;
   line-height: 1.2;
 }
-
 /* line 11, ../sass/js-timer.scss */
+body.highlight {
+  background-color: #f9cd9d;
+}
+
+/* line 16, ../sass/js-timer.scss */
 .shortcut {
   text-decoration: underline;
 }
 
-/* line 15, ../sass/js-timer.scss */
+/* line 20, ../sass/js-timer.scss */
 .js-timer {
   height: 50%;
   margin: 25% auto;
   text-align: center;
 }
-/* line 20, ../sass/js-timer.scss */
+/* line 25, ../sass/js-timer.scss */
 .js-timer #display {
   font-size: 6em;
   margin-bottom: 20px;

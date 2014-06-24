@@ -1,11 +1,16 @@
 $color: #EEEEEE;
 $bkgColor: #555555;
+$bkgColorHilite: #F9CD9D;
 
 body {
     color: $color;
     background-color: $bkgColor;
     font-size: 1em;
     line-height: 1.2;
+
+    &.highlight {
+        background-color: $bkgColorHilite;
+    }
 }
 
 .shortcut {
